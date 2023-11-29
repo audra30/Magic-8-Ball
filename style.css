@@ -1,0 +1,25 @@
+html {
+  background: url(img/background.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 15px;
+  border: rgba(255, 255, 255, 0.8);
+  width: 500px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+input {
+  width: 460px;
+}
+button {
+  background-color: rgba(255, 255, 255, 0);
+  border: rgba(255, 255, 255, 0);
+  padding: 25px 25px 25px;
+}
+
+.green {
+  color: green;
+}
